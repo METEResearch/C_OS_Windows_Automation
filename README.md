@@ -62,14 +62,14 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/ExploAi/C_OS_Windows_Automation/issues) page.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/METEResearch/C_OS_Windows_Automation/issues) page.
 
 Enjoy exploring the System Manipulation using C Programming project! 🚀
 
 <div align="center">
   
 ----------------------
-> >  <br/> &copy; *by Explo* <br/>  
+> >  <br/> &copy; *by METE Research* <br/>  
 ----------------------
 
 <details>
@@ -81,7 +81,7 @@ Enjoy exploring the System Manipulation using C Programming project! 🚀
 
 <div align="center">
 
-[![Stargazers repo roster for @ExploAi/C_OS_Windows_Automation](http://reporoster.com/stars/dark/ExploAi/C_OS_Windows_Automation)](https://github.com/ExploAi/C_OS_Windows_Automation/stargazers)
+[![Stargazers repo roster for @METE Research/C_OS_Windows_Automation](http://reporoster.com/stars/dark/METEResearch/C_OS_Windows_Automation)](https://github.com/METEResearch/C_OS_Windows_Automation/stargazers)
 
 
 
@@ -91,14 +91,14 @@ Enjoy exploring the System Manipulation using C Programming project! 🚀
 
 <div align="center" >
 
-[![Forkers repo roster for @ExploAi/C_OS_Windows_Automation](http://reporoster.com/forks/dark/ExploAi/C_OS_Windows_Automation)](https://github.com/ExploAi/C_OS_Windows_Automation/network/members)
+[![Forkers repo roster for @METE Research/C_OS_Windows_Automation](http://reporoster.com/forks/dark/METEResearch/C_OS_Windows_Automation)](https://github.com/METEResearch/C_OS_Windows_Automation/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://contrib.rocks/image?repo=ExploAi/C_OS_Windows_Automation"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://contrib.rocks/image?repo=METEResearch/C_OS_Windows_Automation"/>
 </a>
 
 
@@ -107,30 +107,30 @@ Enjoy exploring the System Manipulation using C Programming project! 🚀
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/C_OS_Windows_Automation?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/METEResearch/C_OS_Windows_Automation?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/ExploAi/C_OS_Windows_Automation?style=social)
+![GitHub License](https://img.shields.io/github/license/METEResearch/C_OS_Windows_Automation?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/METE Research"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=METE Research&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 
